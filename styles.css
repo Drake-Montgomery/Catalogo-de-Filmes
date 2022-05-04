@@ -211,7 +211,7 @@ a, a:hover {
 }
 
 .dsmovie-pagination-box button:disabled img {
-    filter: unset;
+    filter: contrast(0);
 }
 
 .dsmovie-flip-horizontal {
